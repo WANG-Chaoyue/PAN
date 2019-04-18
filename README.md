@@ -9,7 +9,7 @@ git clone https://github.com/WANG-Chaoyue/PAN.git
 cd PAN
 ```
 
-- Install [Theano 1.0.0+](http://deeplearning.net/software/theano/install.html), [lassagne 0.2+](https://lasagne.readthedocs.io/en/latest/user/installation.html) and other dependencies ([requirements.txt](https://github.com/WANG-Chaoyue/EvolutionaryGAN/blob/master/requirements.txt)).
+- Install [Theano 1.0.0+](http://deeplearning.net/software/theano/install.html), [lassagne 0.2+](https://lasagne.readthedocs.io/en/latest/user/installation.html).
 
 ### Datasets
 The training datasets were similar [pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix). Therefore, we borrowed the code of dataset download from them. 
